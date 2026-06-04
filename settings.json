@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "topshotta.aternos.me",
+    "ip": "topshotta.aternos.me:29155",
     "port": 29155,
     "version": "",
     "try-creative": false
